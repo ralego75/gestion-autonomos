@@ -1,0 +1,20 @@
+{
+  "name": "gestion-autonomos",
+  "version": "1.0.0",
+  "main": "index-gestion-autonomos.js",
+  "scripts": {
+    "start": "node index-gestion-autonomos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael León Gómez",
+  "dependencies": {
+    "mongodb": "^3.1.10",
+    "@lme/swagger-ui-http": "^2.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ralego75/gestion-autonomos.git"
+  },
+  "license": "MIT",
+  "description": ""
+}
